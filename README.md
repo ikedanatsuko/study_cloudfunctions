@@ -54,7 +54,8 @@ https://console.cloud.google.com/functions/list
 **実行してみる**
 
 「トリガー」タブに表示されてるURLにアクセス、もしくは  
-`gcloud functions call hello`で実行できる
+`gcloud functions call hello`  
+で実行できる
 
 **関数の確認**
 
