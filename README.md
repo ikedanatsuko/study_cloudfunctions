@@ -21,7 +21,7 @@ which gcloud
 gcloud init
 ```
 
-**alpha componentをインストール**
+**componentをインストール**
 
 ```shell
 gcloud components install beta
@@ -93,3 +93,7 @@ https://console.cloud.google.com/datastore/entities
 ```shell
 gcloud functions delete 関数名
 ```
+
+**バケット削除**
+
+https://console.cloud.google.com/storage/browser
