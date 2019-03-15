@@ -93,9 +93,13 @@ https://console.cloud.google.com/datastore/entities
 **関数の削除**
 
 ```shell
+gcloud functions list
 gcloud functions delete 関数名
 ```
 
 **バケット削除**
 
-https://console.cloud.google.com/storage/browser
+```shell
+gsutil ls
+gsutil rm -r バケット名
+```
