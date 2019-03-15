@@ -88,6 +88,8 @@ gcloud functions call get_todo
 
 https://console.cloud.google.com/datastore/entities
 
+## おかたづけ
+
 **関数の削除**
 
 ```shell
