@@ -88,7 +88,7 @@ gcloud functions call get_todo
 
 https://console.cloud.google.com/datastore/entities
 
-## おかたづけ
+## お片付け
 
 **関数の削除**
 
