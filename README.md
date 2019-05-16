@@ -47,7 +47,7 @@ cd study_cloudfunctions
 gcloud functions deploy hello --runtime python37 --trigger-http
 ```
 
-**ブラウザのコンソール見てみるとCloudFunctions関数が追加されてる！**
+**ブラウザのコンソール見てみるとCloudFunctions関数が追加されてる**
 
 https://console.cloud.google.com/functions/list
 
@@ -84,7 +84,7 @@ gcloud functions call add_todo --data='{"name": "todo1"}'
 gcloud functions call get_todo
 ```
 
-**Datastoreにデータが登録されてる！**
+**Datastoreにデータが登録される**
 
 https://console.cloud.google.com/datastore/entities
 
